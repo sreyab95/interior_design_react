@@ -177,7 +177,8 @@ h1 {
 }
 
 .signBtn {
-  background-color: rgb(43, 43, 53);
+  /* background-color: rgb(43, 43, 53); */
+  background-color: #4E79B5;
   width: 100%;
   border-radius: 10px;
   padding: 5px;
